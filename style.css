@@ -1,0 +1,29 @@
+body {
+    background-color: cornflowerblue;
+}
+
+#centeredDiv {  
+    display: grid;
+    align-items: center;
+    flex-direction: column; /* Stack elements vertically */
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#div {
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+    background-color: darkturquoise;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: darkturquoise;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
