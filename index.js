@@ -3,7 +3,7 @@ const add = document.getElementById("add");
 const decrease = document.getElementById("decrease");
 const reset = document.getElementById("reset");
 
-var num = 0;
+let num = 0;
 
 add.addEventListener("click", () => {
   num++;
